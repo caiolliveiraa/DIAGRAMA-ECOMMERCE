@@ -1,4 +1,4 @@
-📝 **Descrição do Projeto – Modelo Conceitual de Banco de Dados**
+📝 **Descrição do Projeto – Projeto Conceitual de Banco de Dados**
 =================================================================
 
 Este repositório apresenta o **modelo conceitual de um E-COMMERCE**, desenvolvido com base no Modelo EER (Enhanced Entity-Relationship).
