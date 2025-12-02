@@ -41,3 +41,10 @@ O modelo conceitual foi projetado para:
 *   Representar de forma fiel as regras de negócio do marketplace
     
 *   Servir como base para implementação do **modelo lógico e físico** em SQL
+
+  📊 **Apresentação do Diagrama**
+-------------------------------
+
+Abaixo está o diagrama conceitual em formato PNG que representa toda a estrutura do modelo EER:
+
+![Diagrama Conceitual](main/diagrama.png)
