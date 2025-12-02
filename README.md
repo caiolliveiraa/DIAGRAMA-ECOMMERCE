@@ -47,4 +47,4 @@ O modelo conceitual foi projetado para:
 
 Abaixo está o diagrama conceitual em formato PNG que representa toda a estrutura do modelo EER:
 
-![Diagrama Conceitual](main/diagrama.png)
+![Diagrama Conceitual](https://github.com/caiolliveiraa/DIAGRAMA-ECOMMERCE/blob/main/Diagrama%20-%20Ecommerce.png)
