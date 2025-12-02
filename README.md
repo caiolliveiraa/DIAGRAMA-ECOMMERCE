@@ -25,7 +25,7 @@ Armazena quantidade disponível por CEP/região, permitindo estratégias de log�
 
 ### **✔ Pedidos e Pagamentos**
 
-Relacionamento que garante rastreabilidade total entre cliente, itens do pedido, forma de pagamento e status da transação.
+Relacionamento que garante rastreabilidade total entre cliente, itens do pedido, forma de pagamento e status da Entrega.
 
 🎯 **Objetivo do Modelo**
 =========================
